@@ -1,7 +1,7 @@
 {
     "Ads": {
         "AdMob": {
-            "activated": true,
+            "activated": false,
             "banner": "ca-app-pub-3940256099942544/6300978111",
             "native": "ca-app-pub-3940256099942544/2247696110",
             "interstitial": "ca-app-pub-3940256099942544/1033173712"
@@ -22,6 +22,7 @@
             "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
         },
         "Yandex": {
+            "activated": true,
             "banner": "R-M-1355917-2",
             "native": "R-M-1355917-3",
             "interstitial": "R-M-1355917-1"
