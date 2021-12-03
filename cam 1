@@ -40,23 +40,23 @@
     },
     "GuideContent": [
         {
-            "Guide 1": "Daz Camera Settings Tutorial",
+            "title": "Daz Camera Settings Tutorial",
             "description": "This article explains you everything about the Daz3d Camera Settings. The camera is an important asset to any scene. You can’t produce a render without a camera. And knowing how to set it up and use properly will improve said renders drastically. To inform you about Daz3D camera settings is exactly why this article was created. "
         },
         {
-            "Guide 2": "Adding Cameras",
+            "title": "Adding Cameras",
             "description": "Usually virtual cameras are similar to the real-world ones. And Daz Studio is not an exception. This means that if you have experience with cameras and their settings in the real world, you already know a lot about them in a virtual setting too. But they are still quite different. Mainly because software cameras don’t need to obey any real-world laws and physics. "
         },
         {
-            "Guide 3": "Moving Cameras",
+            "title": "Moving Cameras",
             "description": "So you added the camera to your scene. Now you need to place it, where you would want it. And you have a couple of options to do this. "
         },
         {
-            "Guide 4": "Next  ",
+            "title": "Next  ",
             "description": "First one was talked about in the previous section. You can place your viewport where you want the camera to be, and then Daz3D move the camera to perspective view. "
         },
         {
-            "Guide 5": "Alternatively",
+            "title": "Alternatively",
             "description": "you can move your camera as any other object. To clarify, I mean using the transforms under “General” in the “Parameters” menu. Consequently, here you can both move and rotate your camera along any of the three main axis. Probably the most flexible and convenient way is to change your viewport to the camera view. You need to find the dropdown menu at the top right corner of a viewport. Now choose your Camera in this menu Your view will be transported to that of a camera. And now you can use any default means of moving the viewport. Such as Orbiting, Panning and Zooming. After you place the camera where you want it, just change in the same drop-down menu to the Perspective view or any other. Now you have a camera directed at anything you want. "
         }
     ]
